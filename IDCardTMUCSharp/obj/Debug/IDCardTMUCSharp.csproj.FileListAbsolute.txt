@@ -1,0 +1,9 @@
+C:\Users\Ciksel\Downloads\IDCardTMU\IDCardTMUCSharp\bin\Debug\IDCardTMUCSharp.exe.config
+C:\Users\Ciksel\Downloads\IDCardTMU\IDCardTMUCSharp\bin\Debug\IDCardTMUCSharp.exe
+C:\Users\Ciksel\Downloads\IDCardTMU\IDCardTMUCSharp\bin\Debug\IDCardTMUCSharp.pdb
+C:\Users\Ciksel\Downloads\IDCardTMU\IDCardTMUCSharp\obj\Debug\IDCardTMUCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Ciksel\Downloads\IDCardTMU\IDCardTMUCSharp\obj\Debug\IDCardTMUCSharp.Form1.resources
+C:\Users\Ciksel\Downloads\IDCardTMU\IDCardTMUCSharp\obj\Debug\IDCardTMUCSharp.Properties.Resources.resources
+C:\Users\Ciksel\Downloads\IDCardTMU\IDCardTMUCSharp\obj\Debug\IDCardTMUCSharp.csproj.GenerateResource.Cache
+C:\Users\Ciksel\Downloads\IDCardTMU\IDCardTMUCSharp\obj\Debug\IDCardTMUCSharp.exe
+C:\Users\Ciksel\Downloads\IDCardTMU\IDCardTMUCSharp\obj\Debug\IDCardTMUCSharp.pdb
